@@ -1,2 +1,3 @@
 # Boogle
-School project
+Yes the title of the project is a typo...
+https://fr.wikipedia.org/wiki/Boggle
